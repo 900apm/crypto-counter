@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/crypto-counter/static/js/main.a7f0b04e.chunk.js",
+    "main.js.map": "/crypto-counter/static/js/main.a7f0b04e.chunk.js.map",
+    "runtime-main.js": "/crypto-counter/static/js/runtime-main.0d7341ba.js",
+    "runtime-main.js.map": "/crypto-counter/static/js/runtime-main.0d7341ba.js.map",
+    "static/js/2.60d6b376.chunk.js": "/crypto-counter/static/js/2.60d6b376.chunk.js",
+    "static/js/2.60d6b376.chunk.js.map": "/crypto-counter/static/js/2.60d6b376.chunk.js.map",
+    "index.html": "/crypto-counter/index.html",
+    "precache-manifest.d9faa39330671d089ab03502c86d267b.js": "/crypto-counter/precache-manifest.d9faa39330671d089ab03502c86d267b.js",
+    "service-worker.js": "/crypto-counter/service-worker.js",
+    "static/js/2.60d6b376.chunk.js.LICENSE.txt": "/crypto-counter/static/js/2.60d6b376.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d7341ba.js",
+    "static/js/2.60d6b376.chunk.js",
+    "static/js/main.a7f0b04e.chunk.js"
+  ]
+}
